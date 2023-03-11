@@ -1,0 +1,5 @@
+Some of the screenshots of the Minecraft game featured in this directory were taken while using the "Complementary Shaders".
+You may find and download those shaders yourself on the following webpage: https://www.curseforge.com/projects/385587
+
+Please keep in mind that screenshots of the Minecraft game are governed by the Minecraft EULA, and that distributing images
+and videos featuring "Complementary Shaders" must give proper credit to those shaders (as of March 2023).

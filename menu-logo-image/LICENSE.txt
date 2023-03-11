@@ -1,0 +1,21 @@
+==========================================================================================
+All of MY (aka TheCSDev's) work in this directory is licensed under the CC0 license. (Emphasis on "MY work").
+You may read the CC0 license on the following webpage: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+An offline copy of the CC0 license should be available in this directory in form of an ".html" file.
+------------------------------------------------------------------------------------------
+# My works that I HAVE licensed under the CC0 license include the following files:
+- All ".blend" and ".blend1" files.
+- All files in the "my_files" directory and all of its subdirectories, unless unless otherwise stated.
+
+# Files that I have NOT licensed under the CC0 license include:
+- All files in the "minecrafter" directory. Those are not mine, and are licensed under a completely different license.
+- Screenshots of the Minecraft game. Those are governed by the Minecraft EULA. Screenshots using shaders are subject to licenses of those shaders as well.
+- All files related to the offline HTML copy of the "Creative Commons Legal Code". Those belong to https://creativecommons.org
+- All other files not covered by this license.
+==========================================================================================
+# Sidenote(s) aka my personal requests:
+- If you choose to redistribute any of my CC0 files, please do so while keeping the CC0 license on them.
+------------------------------------------------------------------------------------------
+# Credits:
+- The logo text uses the font files in the "minecrafter" directory. Please read the license file in the "minecrafter" directory for more info.
+==========================================================================================
